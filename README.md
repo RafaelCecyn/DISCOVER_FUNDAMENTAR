@@ -16,7 +16,7 @@ Nesse curso temos os seguintes módulos
 - [x] Uma caixa dentro da outra
 - [x] Agora sim, cores
 - [x] Posso ver e ouvir o HTML
-- [ ] Posicionando foguetes
+- [x] Posicionando foguetes
 - [ ] App bonito, até nos textos
 - [ ] Formulários de outro planeta
 - [ ] Guia Estelar JavaScript
