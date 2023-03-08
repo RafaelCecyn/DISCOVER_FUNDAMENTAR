@@ -19,3 +19,17 @@ Nesse curso temos os seguintes módulos
 - [ ] Posicionando foguetes
 - [ ] App bonito, até nos textos
 - [ ] Formulários de outro planeta
+- [ ] Guia Estelar JavaScript
+- [ ] HTML que faz sentido, para todos
+- [ ] Nem só de classes ou IDs
+- [ ] Alinhando os planetas
+- [ ] Pilotando com a DOM
+- [ ] Terminal
+- [ ] NodeJS
+- [ ] NodeJS + EJS
+- [ ] SQL
+- [ ] Estrutura de dados
+- [ ] Programação Orientada a Objetos
+- [ ] Guia Estelar de GIT
+- [ ] Guia Estelar de GitHub
+- [ ] Guia estelar de HTTP
