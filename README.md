@@ -17,7 +17,7 @@ Nesse curso temos os seguintes módulos
 - [x] Agora sim, cores
 - [x] Posso ver e ouvir o HTML
 - [x] Posicionando foguetes
-- [ ] App bonito, até nos textos
+- [x] App bonito, até nos textos
 - [ ] Formulários de outro planeta
 - [ ] Guia Estelar JavaScript
 - [ ] HTML que faz sentido, para todos
