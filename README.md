@@ -1,5 +1,7 @@
 # DISCOVER_FUNDAMENTAR
 
+# Sobre o projeto
+
 Estou fazendo o curso **Discover trilha Fundamentar da Rocketseat :rocket:** que abrange os seguintes conteúdos. 
 
 * Back-end com JavaScript, Node.Js e SQL
@@ -33,3 +35,10 @@ Nesse curso temos os seguintes módulos
 - [ ] Guia Estelar de GIT
 - [ ] Guia Estelar de GitHub
 - [ ] Guia estelar de HTTP
+
+
+# Autor
+
+Rafael Cecyn Mendes
+
+https://www.linkedin.com/in/rafaelcecynmendes/
