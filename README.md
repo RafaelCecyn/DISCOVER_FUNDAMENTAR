@@ -1,6 +1,7 @@
 # DISCOVER_FUNDAMENTAR
 
 # Sobre o projeto
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaelCecyn/DISCOVER_FUNDAMENTAR/blob/main/LICENSE) 
 
 Estou fazendo o curso **Discover trilha Fundamentar da Rocketseat :rocket:** que abrange os seguintes conteúdos. 
 
